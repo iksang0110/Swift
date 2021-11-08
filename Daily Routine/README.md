@@ -40,8 +40,6 @@
 <br>
 
 ### Result
-<div align="center"><a href="https://www.youtube.com/watch?v=MJP6pqCFX_M"target="_blank"><img src = "https://user-images.githubusercontent.com/56511253/120455961-279ac380-c3d0-11eb-84b5-92f53393b7b2.png"></a></div>
-<br>
 
 - 하나의 Model 을 각기 다른 형식으로 TableView 에 road 시켜야 했기 때문에, Model 을 여러 Object 로 만드는 과정에서 연산 복잡도가 늘어남.
 - StoryBoard 와 Code 의 혼용으로 기능을 추가할 때 오히려 더 복잡해짐.
